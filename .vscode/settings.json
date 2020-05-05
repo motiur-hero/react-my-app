@@ -1,0 +1,12 @@
+
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+    },
+    "eslint.codeAction.showDocumentation": {
+    
+    },
+    "eslint.codeAction.disableRuleComment": {
+    
+    }
+ }
